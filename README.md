@@ -1,4 +1,6 @@
-# Golang WebAssembly Example
+# Golang + WebAssembly
+
+Demonstrates a simple Golang program running on the browser using WebAssembly.
 
 Requires: **Golang**
 
